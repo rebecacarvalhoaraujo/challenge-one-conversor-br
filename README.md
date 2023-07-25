@@ -14,8 +14,4 @@ Aqui você encontrará o código com a solução para o desafio do conversor de 
 
 
 
-4) Acesse seu e-mail e terá a sua Badge Exclusiva do Desafio 🏆
-5) Não se esqueça de publicar um link ou vídeo do seu projeto no Linkedin! 🏁
-
-    <a href="https://www.linkedin.com/company/alura-latam/mycompany/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
 
